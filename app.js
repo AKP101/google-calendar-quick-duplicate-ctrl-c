@@ -247,7 +247,11 @@ function simulateClick(element) {
   );
 }
 /** ======================================== */
-
+/**
+TODO: simulate a select and copy and paste using ctrl + c which should emulate exactly what is being done here. 
+function simulateCtrlC(){
+}
+**/
 /** ========== READY EVENT ========== */
 if (
   document.readyState === "complete" ||
